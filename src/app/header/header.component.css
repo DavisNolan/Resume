@@ -1,0 +1,46 @@
+header {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 40px 60px;
+}
+
+.logo {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.logo__image {
+  display: inline-block;
+  max-width: 100px;
+  vertical-align: middle;
+}
+
+.logo__title {
+  color: #103273;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.logo__subtitle {
+  color: #ccc;
+  padding-left: 5px;
+  font-size: 12px;
+}
+
+.download-button {
+  max-height: 16px;
+  font-size: 12px;
+  text-decoration: none;
+  border: 2px solid #103273;
+  border-radius: 20px;
+  padding: 8px 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.download-button:hover {
+  color: #fff;
+  background: #103273;
+}
