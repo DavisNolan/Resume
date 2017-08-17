@@ -1,1 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #103273;
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+}
