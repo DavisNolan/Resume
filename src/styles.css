@@ -5,8 +5,13 @@ html, body {
 }
 
 body {
+  font-family: 'Montserrat', sans-serif;
   background: #103273;
   margin: 0;
   padding: 20px;
   box-sizing: border-box;
+}
+
+.main {
+  display: flex;
 }

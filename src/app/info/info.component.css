@@ -1,0 +1,28 @@
+aside {
+  padding-right: 50px;
+  max-width: 300px;
+}
+
+a {
+  text-decoration: none;
+  color: #103273;
+  border-bottom: 1px solid #ccc;
+}
+
+h1 {
+  border-bottom: 3px solid #dfdfdf;
+  padding: 20px 0;
+}
+
+p {
+  font-size: 14px;
+}
+
+img {
+  max-width: 120px;
+}
+
+.emphasis {
+  font-size: 17px;
+  font-weight: bold;
+}
